@@ -1,4 +1,6 @@
 Oluşturulan yeni repoya ekleme yazıldı
 Bunu yusuf kankam yazdı
 Levent branchinde yazıldı
+Ramazan branchinde yazıldı
 Merge conflict için yazıldı
+Merge conflict çözüldü
